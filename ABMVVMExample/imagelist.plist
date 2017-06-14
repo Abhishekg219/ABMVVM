@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>asset</key>
+		<string>bmw</string>
+		<key>s7parameters</key>
+		<string>&amp;align=0,0</string>
+		<key>name</key>
+		<string>BMW</string>
+		<key>description</key>
+		<string>BMW, short for ‘Bayerische Motoren Werke’, which means ‘Bavarian Motor Works’ in English, has come a long way since its inception and has become one of the most popular sports, luxury, and family car manufacturers today. The BMW history started with the efforts of Karl Rapp, who incorporated Rapp Motorenwerke near Oberwiesenfeld. The company used to manufacturer aircrafts and had contracts with Gustav Otto and Austro-Daimler to manufacturer V12 engines for its airplanes. Let’s learn more about the BMW Logo, the company’s history timeline, and their latest models.
+        </string>
+		<key>Id</key>
+		<string>100</string>
+	</dict>
+	<dict>
+		<key>asset</key>
+		<string>renault</string>
+		<key>s7parameters</key>
+		<string>&amp;align=0,-0.3</string>
+		<key>name</key>
+		<string>Renault</string>
+		<key>description</key>
+		<string>Renault, the world famous manufacturer of lorries, vans, buses, tractors, and cars, was founded in 1899 as the ‘Société Renault Frères’ by the Renault brothers, Louis, Marcel and Fernand. However, much of the credit for starting the legend of Renault history goes to Louis Renault, who was an aspiring individual and had already designed several car models before joining his brothers. Take a look at the Renault Logo, history timeline and list of latest models below.</string>
+		<key>Id</key>
+		<string>101</string>
+	</dict>
+	<dict>
+		<key>asset</key>
+		<string>astonmartin</string>
+		<key>s7parameters</key>
+		<string>&amp;align=0,-0.3</string>
+		<key>name</key>
+		<string>Aston Martin</string>
+		<key>description</key>
+		<string>The Aston Martin Lagonda Limited has a long history filled with numerous difficulties. However, over the time, all efforts proved to be worth it and now the company exists as one of the world’s top automobile manufacturers. The Aston Martin history began with the efforts of Lionel Martin and Robert Bamford, who founded the ‘Bamford and Martin Limited Company’ in 1913. Let’s talk more about the Aston Martin logo, the company’s history, interesting news in their journey and the list of latest car models.</string>
+		<key>Id</key>
+		<string>102</string>
+	</dict>
+	<dict>
+		<key>asset</key>
+		<string>ferrari</string>
+		<key>s7parameters</key>
+		<string>&amp;align=0.6,0</string>
+		<key>name</key>
+		<string>Ferrari</string>
+		<key>description</key>
+		<string>For car lovers, the ultimate in sports car pleasure is to slip behind the wheel of a Ferrari, a bright red, super-fast, highly sporty and exceptionally beautiful vehicle. While the imagery is correct in plenty of ways, only a few actually wonder ‘How did Ferrari get this far?’ So, here’s a brief history of Ferrari and how the cars came about. We’ll talk about the Ferrari Logo, their company’s history timeline and the list of latest models in this post</string>
+		<key>Id</key>
+		<string>103</string>
+	</dict>
+	<dict>
+		<key>asset</key>
+		<string>jaguar</string>
+		<key>s7parameters</key>
+		<string>&amp;align=0,-1</string>
+		<key>name</key>
+		<string>Jaguar</string>
+		<key>description</key>
+		<string>Jaguar is an old name with an incredibly fascinating history in the automobile industry. It has an enviable reputation for sophistication and style and to this day retains its classy, quintessential English image created decades back. The Jaguar history started, by the efforts of William Lyons and William Walmsley, who founded the Swallow Sidecar Company way back in 1922. Continue reading to learn more about the Jaguar logo, the company’s history and their current car models.
+</string>
+		<key>Id</key>
+		<string>104</string>
+	</dict>
+	<dict>
+		<key>asset</key>
+		<string>jeep</string>
+		<key>s7parameters</key>
+		<string>&amp;align=0,-1</string>
+		<key>name</key>
+		<string>Jeep</string>
+		<key>description</key>
+		<string>Who doesn’t recognize the name of Jeep? It’s an iconic name that has not only been associated with adventurous rides, but for the sheer joy of riding one of the world’s best vehicles. The Jeep is popular by many names, like the Wagoneer, the Cherokee, the Rubicon, and of course, the Wrangler. However, regardless of the name, each Jeep is styled and designed in an exceptionally unique and distinctive way. Going back in the timeline, this automaker has been through numerous wars and many battles. Continue reading to learn more about the legendary history of Jeep.</string>
+		<key>Id</key>
+		<string>105</string>
+	</dict>
+	<dict>
+		<key>asset</key>
+		<string>lamborghini</string>
+		<key>s7parameters</key>
+		<string>&amp;align=0,0</string>
+		<key>name</key>
+		<string>Lamborghini</string>
+		<key>description</key>
+		<string>Lamborghini cars are much-loved by car aficionados around the world. These cars are known for their excellent performance in terms of speed and are built with incredible style. However, these cars didn’t just gain a high reputation on their own. In fact, there is a grand history of Lamborghini behind the company itself that designs vehicles exclusively for customer satisfaction. Learn more about the Lamborghini logo, history timeline and list of latest models in this article.</string>
+		<key>Id</key>
+		<string>106</string>
+	</dict>
+	<dict>
+		<key>asset</key>
+		<string>landrover</string>
+		<key>s7parameters</key>
+		<string>&amp;align=0,-1</string>
+		<key>name</key>
+		<string>Land Rover</string>
+		<key>description</key>
+		<string>Land Rover is a renowned British car brand popular for its versatility in a variety of environments, whether travelling on standard roads or tackling rough terrain. Not only is the brand the longest surviving four-wheel drive, but it has also proven itself as a popular choice for all those automotive consumers seeking vehicles that cater to all situations and terrains. Continue reading this article to learn about the Land Rover logo, their history timeline, important events, and list of current models below.</string>
+		<key>Id</key>
+		<string>107</string>
+	</dict>
+	<dict>
+		<key>asset</key>
+		<string>peugeot</string>
+		<key>s7parameters</key>
+		<string>&amp;align=0,0</string>
+		<key>name</key>
+		<string>Peugeot</string>
+		<key>description</key>
+		<string>Peugeot has been producing a range of fantastic driver-friendly vehicles since the inception of its automotive division. The history of Peugeot started when the company itself was founded 200 years back in 1810 as a coffee mill company named ‘Peugeot Frères’ by Jean-Pierre II and Jean-Frederic. The business ran smoothly for a couple of decades until 1830 when it shifted its attention to producing bicycles. Continue reading to learn more about the Peugeot Logo, history timeline and list of latest models.</string>
+		<key>Id</key>
+		<string>108</string>
+	</dict>
+	<dict>
+		<key>asset</key>
+		<string>porsche</string>
+		<key>s7parameters</key>
+		<string>&amp;align=0,0</string>
+		<key>name</key>
+		<string>Porsche</string>
+		<key>description</key>
+		<string>Porsche is a renowned automobile manufacturer that specializes mainly in producing sports cars. The German automobile maker has succeeded in producing sports cars that are known for performance, quality, and reliability. Above all, the Porsche is popular for producing prestigious sports cars that can be used for everyday driving. Continue reading to learn more about the Porsche logo, the company’s history, important events in its timeline and their newest models.
+
+</string>
+		<key>Id</key>
+		<string>109</string>
+	</dict>
+	<dict>
+		<key>asset</key>
+		<string>RollsRoyce</string>
+		<key>s7parameters</key>
+		<string>&amp;align=0,0</string>
+		<key>name</key>
+		<string>Rolls-Royce</string>
+		<key>description</key>
+		<string>The history of Rolls-Royce, the renowned luxury British car-manufacturing company goes way back to 1884, when Henry Royce started his mechanical and electrical business. By 1894, he started manufacturing electric cranes and dynamos and five years later, the company was registered as Royce Ltd. In 1904, Royce created his first car, known as the Royce 10. Let’s take a look at the Rolls-Royce Logo, the company’s history and their list of latest models.</string>
+		<key>Id</key>
+		<string>110</string>
+	</dict>
+</array>
+</plist>

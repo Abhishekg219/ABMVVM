@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11201" systemVersion="16E195" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="eVf-SG-oyO">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Sports Car-->
+        <scene sceneID="VrN-gM-V3g">
+            <objects>
+                <tableViewController id="p1i-KQ-M5S" customClass="ABCarShowTableViewController" customModule="ABMVVMExample" customModuleProvider="target" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" dataMode="prototypes" style="plain" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" id="fhx-l2-adq">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="separatorColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                        <connections>
+                            <outlet property="dataSource" destination="p1i-KQ-M5S" id="fMj-CF-KM7"/>
+                            <outlet property="delegate" destination="p1i-KQ-M5S" id="MSV-98-KgK"/>
+                        </connections>
+                    </tableView>
+                    <navigationItem key="navigationItem" title="Sports Car" id="Kea-vz-Jbm"/>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="syR-Vn-KAG" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1106" y="-181"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="wA6-mn-wUF">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="eVf-SG-oyO" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" systemItem="topRated" id="uZy-1c-dhM"/>
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" misplaced="YES" id="6r4-Op-nxd">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="barTintColor" red="0.0" green="0.5450980392" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <textAttributes key="titleTextAttributes">
+                            <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        </textAttributes>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="p1i-KQ-M5S" kind="relationship" relationship="rootViewController" id="SRk-rD-4kH"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="rI8-02-Nr1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="257" y="-181"/>
+        </scene>
+    </scenes>
+</document>
